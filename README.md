@@ -2,7 +2,6 @@ Stack.cpp
 
 
 //
-// Created by Rafal Nowak on 23/04/2022.
 //
 #define QUEUE_SIZE 5
 int queue_table[QUEUE_SIZE] = { 0 };
@@ -56,7 +55,7 @@ void Enqueue(int val)
 
 Stack.h
 //
-// Created by Rafal Nowak on 23/04/2022.
+
 //
 
 #ifndef MYQUEUE_QUEUE_H
